@@ -1,6 +1,5 @@
-# Ola-booking-Analysis-
-Ola ride booking data analysis using SQL and Power BI to explore booking trends, cancellations, ride distance, vehicle performance, and customer insights.
 # Ola Ride Booking Analysis | SQL & Power BI
+Ola ride booking data analysis using SQL and Power BI to explore booking trends, cancellations, ride distance, vehicle performance, and customer insights.
 
 ## Project Overview
 An end-to-end data analytics project using SQL and Power BI to analyze Ola ride bookings, cancellations, revenue, vehicle performance, and customer ratings.
